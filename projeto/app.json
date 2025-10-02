@@ -1,0 +1,9 @@
+{
+  "name": "projeto",
+  "slug": "projeto",
+  "plugins": [
+    "expo-router",
+    "expo-sqlite"
+  ],
+  "scheme": "your-app-scheme"
+}
